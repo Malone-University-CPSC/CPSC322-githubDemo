@@ -3,6 +3,7 @@ Thomas,Hooper,Batman
 Pablo,Menendez,GreenLantern
 Daniel,Ogbonna,BlackPanther
 Adam,Klemann,Wolverine
+Keon,Dalziel,Spider-Man
 Kai,Duda,Batman
 Cole,Travis,Spiderman
 Anthony,Zook,Mystique
