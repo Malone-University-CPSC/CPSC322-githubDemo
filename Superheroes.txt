@@ -2,6 +2,7 @@ First,Last,Superhero
 Pablo,Menendez,GreenLantern
 Daniel,Ogbonna,BlackPanther
 Adam,Klemann,Wolverine
+Anthony,Zook,Mystique
 Aidan,Calderhead,Batman
 Sarah,Kean, Captain Marvel
 James, Glasgow, Underdog
