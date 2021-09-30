@@ -3,6 +3,7 @@ Thomas,Hooper,Batman
 Pablo,Menendez,GreenLantern
 Daniel,Ogbonna,BlackPanther
 Adam,Klemann,Wolverine
+Christopher,Marquart,Gabe Newell
 Keon,Dalziel,Spider-Man
 Kai,Duda,Batman
 Cole,Travis,Spiderman
@@ -12,4 +13,3 @@ Sarah,Kean, Captain Marvel
 James, Glasgow, Underdog
 JaKe, Shingledecker, Batman
 Austin,McIntyre,Nova
-Chris, Marquart, Gabe Newell
