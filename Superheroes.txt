@@ -1,4 +1,5 @@
 First,Last,Superhero
+Thomas,Hooper,Batman
 Pablo,Menendez,GreenLantern
 Daniel,Ogbonna,BlackPanther
 Adam,Klemann,Wolverine
