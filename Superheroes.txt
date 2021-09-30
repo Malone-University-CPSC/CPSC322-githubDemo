@@ -1,3 +1,6 @@
 First,Last,Superhero
 Adam,Klemann,Wolverine
 Sarah,Kean, Captain Marvel
+James, Glasgow, Underdog
+Austin,McIntyre,Nova
+Chris, Marquart, Gabe Newell
