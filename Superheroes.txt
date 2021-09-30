@@ -1,6 +1,6 @@
 First,Last,Superhero
+Daniel,Ogbonna,BlackPanther
 Adam,Klemann,Wolverine
-
 Aidan,Calderhead,Batman
 Sarah,Kean, Captain Marvel
 James, Glasgow, Underdog
