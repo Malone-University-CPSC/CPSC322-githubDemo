@@ -1,3 +1,13 @@
 First,Last,Superhero
+Thomas,Hooper,Batman
+Pablo,Menendez,GreenLantern
+Daniel,Ogbonna,BlackPanther
 Adam,Klemann,Wolverine
 Christopher,Marquart,Gabe Newell
+Cole,Travis,Spiderman
+Anthony,Zook,Mystique
+Aidan,Calderhead,Batman
+Sarah,Kean, Captain Marvel
+James, Glasgow, Underdog
+JaKe, Shingledecker, Batman
+Austin,McIntyre,Nova
